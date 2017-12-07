@@ -1,4 +1,4 @@
-# A Tip Extractor for Yelp Reviews 
+# A Tip Extractor for Reviews 
 Prerequisite libraries required: `Pattern` and `SpaCy`
 
 ## Installation
